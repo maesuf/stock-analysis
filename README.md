@@ -10,6 +10,7 @@ Analyzing alternate energy stocks
 ![image](https://user-images.githubusercontent.com/97330455/162590235-7c4b2a87-6187-456b-895e-00fe019065ef.png)
 
 ## Summary 
+
 ### The advantages of refactoring are as follows:
 ### Helps organize the code so that its easier to understand 
 ### Makes it easier to debug and find errors with the code
